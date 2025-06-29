@@ -7,4 +7,11 @@ This proposed work provides a stylish web-based interface for real time interact
 The main goal of building this proposed work is to provide a seamless user experience 
 where a user can give their own description (e.g., “a girl holding a puppy in 
 aircraft”),and obtain a AI generated image that visually represents the given prompt. 
-The core technologies used in the proposed work are, Hugging Face diffusers Library, 
+The core technologies used in the proposed work are, Hugging Face diffusers Library.
+
+It generates the output from the input text we give.For example for the input
+"A ballerina dancing"., 
+“A dog playing with ball.” ,
+“A castle that floats upside 
+down above a mirror lake, it 
+reflecting the real world. ” -it provides the desired output in the form of an image as the file attached in repository.
